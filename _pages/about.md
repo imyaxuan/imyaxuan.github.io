@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, welcome to my homepage!
 
-I am a second-year PhD student in the [Department of Statistics at UC Berkeley](https://statistics.berkeley.edu). Before joining Berkeley, I spent four great years in Yuanpei College, Peking University, and was very fortunate to be advised by Prof. [Song Xi Chen](https://www.songxichen.com). Currently, I'm working with Prof. [Bin Yu] and Prof. [Sam Pimentel]. 
+I am a second-year PhD student in the [Department of Statistics at UC Berkeley](https://statistics.berkeley.edu). Before joining Berkeley, I spent four great years in Yuanpei College, Peking University, and was very fortunate to be advised by Prof. [Song Xi Chen](https://www.songxichen.com). Currently, I'm working with Prof. [Bin Yu](https://binyu.stat.berkeley.edu) and Prof. [Sam Pimentel](https://www.stat.berkeley.edu/~spi/). 
 
 Feel free to contact me if you would like to connect!
 
